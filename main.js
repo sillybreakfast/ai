@@ -55,7 +55,8 @@ data = [
 	["dating", ["romance", "love"]],
 	["hate", ["negative"]],
 	["dislike", ["negative"]],
-	["not", ["not"]]
+	["not", ["not"]],
+	["github", ["origin place"]]
 ],
 userinput = "",
 results = [];
